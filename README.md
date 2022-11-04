@@ -58,18 +58,17 @@ Use of Smooten to Predict Credit Risk
    
    *Accuracy Score for the Model* 
 
-
-![image](https://user-images.githubusercontent.com/104601282/199869122-ea567cc8-7173-498e-81b9-03e8caf58a81.png)
+![image](https://user-images.githubusercontent.com/104601282/199919003-2de4f18d-9345-475e-9f12-d7c433b3cf16.png)
 
 
    *Confussion Matrix*
 
-  ![image](https://user-images.githubusercontent.com/104601282/199869151-89b2e278-6536-4909-ab92-a1e8eb36d172.png)
+ ![image](https://user-images.githubusercontent.com/104601282/199919042-19214bd1-5c32-4796-86b0-1d2a12e0c9d9.png)
 
 
   *Imbalanced Classification Report*
   
-  ![image](https://user-images.githubusercontent.com/104601282/199869174-9a173841-9076-42c7-9d74-bc30d463d55f.png)
+  ![image](https://user-images.githubusercontent.com/104601282/199919090-40e63163-c01e-467b-a1df-6c6a2c1e7d22.png)
 
   
   **EasyEnsembleClassifier**
@@ -77,8 +76,14 @@ Use of Smooten to Predict Credit Risk
     
     *Accuracy Score for the Model* 
 
+    ![image](https://user-images.githubusercontent.com/104601282/199919164-a794b7b4-27cd-460b-855b-5b0a74c246aa.png)
+
 
    *Confussion Matrix*
+  
+  ![image](https://user-images.githubusercontent.com/104601282/199919235-6ccfb085-c108-434a-8f45-0b3b5d22d2cb.png)
 
 
   *Imbalanced Classification Report*
+
+    ![image](https://user-images.githubusercontent.com/104601282/199919290-f15f3b15-ce5f-4df7-8ad6-011abdf04929.png)
