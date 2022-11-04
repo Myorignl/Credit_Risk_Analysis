@@ -68,15 +68,18 @@ Use of Smooten to Predict Credit Risk
 
   *Imbalanced Classification Report*
   
-  ![image](https://user-images.githubusercontent.com/104601282/199919090-40e63163-c01e-467b-a1df-6c6a2c1e7d22.png)
+
+![image](https://user-images.githubusercontent.com/104601282/199919590-1cdaabed-1ad6-464b-a481-94b036c9a893.png)
 
   
   **EasyEnsembleClassifier**
     
     
     *Accuracy Score for the Model* 
-
-    ![image](https://user-images.githubusercontent.com/104601282/199919164-a794b7b4-27cd-460b-855b-5b0a74c246aa.png)
+    
+    
+    
+  ![image](https://user-images.githubusercontent.com/104601282/199920694-1fbc4687-1127-4a66-9b3f-71844eaa5e8e.png)
 
 
    *Confussion Matrix*
@@ -86,4 +89,19 @@ Use of Smooten to Predict Credit Risk
 
   *Imbalanced Classification Report*
 
-    ![image](https://user-images.githubusercontent.com/104601282/199919290-f15f3b15-ce5f-4df7-8ad6-011abdf04929.png)
+    
+
+![image](https://user-images.githubusercontent.com/104601282/199919906-f168b25b-c67c-4a59-9e3f-878614dc0d84.png)
+
+    Balance Accuracy Scores, Pressicion and Recall 
+    
+    The Best Accuracy scores is seen with EasyEnsemblerClassifier at 92% in comparison to the lowest held by the logistc regression model at 63% 
+    The highest pressicion score is seen in resampling with BalancedRandomForestClassifier at  97% 
+    The fastest recall is seen with EasyEnsemblerClassifier at 0.94 the lowest seen in Logistic Regression with a 0.54
+    
+    
+    
+    
+    
+    
+    
